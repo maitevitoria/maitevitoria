@@ -2,7 +2,7 @@
 
 ##
   
-**Developer** working on creation and maintenance of databases, structuring and pre-processing processes, making reports dashboards and applications to assist the industrial and retail business areas.
+**Developer** working on creation and maintenance of databases, structuring and pre-processing processes, making reports, dashboards and applications to assist the industrial and retail business areas.
 
 ##
 
