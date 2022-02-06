@@ -26,11 +26,11 @@
 #### 📊  Statistics:
 
 <a href="https://github.com/maitevitoria">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=maitevitoria&show_icons=true&theme=material-palenight&include_commits=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maitevitoria&show_icons=true&theme=material-palenight&include_commits=true"/>
 </a>
 
 <a href="https://github.com/maitevitoria">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitevitoria&layout=compact&langs_count=8&theme=material-palenight"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitevitoria&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 
 
