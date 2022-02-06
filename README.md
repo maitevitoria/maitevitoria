@@ -1,16 +1,51 @@
-### Hi there 👋
+### Hii! My name is Maite 👋  👩‍💻
 
-<!--
-**maitevitoria/maitevitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+  
+**Developer** working on creation and maintenance of databases, structuring and pre-processing processes, making reports and dashboards to assist the industrial and retail business areas.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### 💻  Tools & languages:
+ 
+ <br>
+
+ ![Python](https://img.shields.io/badge/-Python-blueviolet?style=plastic&logo=Python)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blueviolet?style=plastic&logo=PostgreSQL)
+ ![Github](https://img.shields.io/badge/-Github-blueviolet?style=plastic&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=plastic&logo=visual-studio-code)
+ ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=plastic&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-blueviolet?style=plastic&logo=Numpy)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-blueviolet?style=plastic&logo=Jupyter)
+ ![AWS](https://img.shields.io/badge/-AWS-blueviolet?style=plastic&logo=Amazon-AWS)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-blueviolet?style=plastic&logo=Power-BI)
+ ![Qlik_Sense](https://img.shields.io/badge/QlikSense-blueviolet?style=plastic&logo=Qlik-Sense)
+ 
+##
+
+#### 📊  Statistics:
+
+<a href="https://github.com/maitevitoria">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=maitevitoria&show_icons=true&theme=material-palenight&include_commits=true"/>
+</a>
+
+<a href="https://github.com/maitevitoria">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitevitoria&layout=compact&langs_count=8&theme=material-palenight"/>
+</a>
+
+
+
+##
+
+
+<div> 
+
+ #### ✨ Other Contacts:
+
+<a href="https://www.linkedin.com/in/maitevalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/maitevitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<br>
+
+</div>
+
+
