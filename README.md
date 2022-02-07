@@ -1,6 +1,6 @@
 <div>
   
-### Hii! My name is Maite 👋  👩‍💻
+### Hii! My name is Maite
 
 ##
 <br>
@@ -13,7 +13,7 @@
 
 ##
 
-#### 💻  Tools & languages:
+#### Tools & languages:
 
 <div align="right">
  
