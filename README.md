@@ -1,9 +1,11 @@
-<div>
+<div  align="center">
   
-### Hii! My name is Maite
+### Hii! My name is Maite 💖 👩‍💻
 
 ##
 <br>
+
+</div> 
   
 <img align="left" alt="Ma-pic" height="110" style="float:right:50px;" src="https://cdn.discordapp.com/attachments/940047167635222571/940047206885494825/IMG_3163.gif">
 
