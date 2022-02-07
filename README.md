@@ -50,7 +50,7 @@
 
 <div align="center">
 
-#### ✨ Other Contacts:
+#### ✨ Get in touch:
 
 <a align="middle" href="https://www.linkedin.com/in/maitevalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a align="middle" href="https://www.instagram.com/maitevitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
