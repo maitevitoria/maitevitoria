@@ -6,11 +6,10 @@
 
 ##
 
-<div style="display: inline_block">
+<div>
   
 #### 💻  Tools & languages:
  
- <br>
 
 ![Python](https://img.shields.io/badge/-Python-blueviolet?style=plastic&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blueviolet?style=plastic&logo=PostgreSQL)
@@ -24,6 +23,13 @@
 ![Qlik_Sense](https://img.shields.io/badge/QlikSense-blueviolet?style=plastic&logo=Qlik-Sense)
 <img align="right" alt="Ma-pic" height="150" style="float:right:50px;" src="https://cdn.discordapp.com/attachments/940047167635222571/940047206885494825/IMG_3163.gif">
  
+##
+
+#### ✨ Other Contacts:
+
+<a align="middle" href="https://www.linkedin.com/in/maitevalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a align="middle" href="https://www.instagram.com/maitevitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 ##
 </div>
 
@@ -42,12 +48,9 @@
 
 ##
 
-<div align="center">
-  
-#### ✨ Other Contacts:
 
-<a align="middle" href="https://www.linkedin.com/in/maitevalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a align="middle" href="https://www.instagram.com/maitevitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+
 
 </div>
 
