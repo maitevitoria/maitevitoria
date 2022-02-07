@@ -6,7 +6,7 @@
 
 ##
 
-<div>
+<divs style="display: inline_block">
   
 #### 💻  Tools & languages:
  
@@ -21,7 +21,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-blueviolet?style=plastic&logo=Amazon-AWS)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-blueviolet?style=plastic&logo=Power-BI)
 ![Qlik_Sense](https://img.shields.io/badge/QlikSense-blueviolet?style=plastic&logo=Qlik-Sense)
-<img align="right" alt="Ma-pic" height="150" style="float:right:50px;" src="https://cdn.discordapp.com/attachments/940047167635222571/940047206885494825/IMG_3163.gif">
+<img align="right" alt="Ma-pic" height="110" style="float:right:50px;" src="https://cdn.discordapp.com/attachments/940047167635222571/940047206885494825/IMG_3163.gif">
  
 ##
 
