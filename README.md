@@ -6,22 +6,27 @@
 
 ##
 
- #### 💻  Tools & languages:
+<div style="display: inline_block">
+  
+#### 💻  Tools & languages:
  
  <br>
 
- ![Python](https://img.shields.io/badge/-Python-blueviolet?style=plastic&logo=Python)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blueviolet?style=plastic&logo=PostgreSQL)
- ![Github](https://img.shields.io/badge/-Github-blueviolet?style=plastic&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=plastic&logo=visual-studio-code)
- ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=plastic&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-blueviolet?style=plastic&logo=Numpy)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-blueviolet?style=plastic&logo=Jupyter)
- ![AWS](https://img.shields.io/badge/-AWS-blueviolet?style=plastic&logo=Amazon-AWS)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-blueviolet?style=plastic&logo=Power-BI)
- ![Qlik_Sense](https://img.shields.io/badge/QlikSense-blueviolet?style=plastic&logo=Qlik-Sense)
+![Python](https://img.shields.io/badge/-Python-blueviolet?style=plastic&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blueviolet?style=plastic&logo=PostgreSQL)
+![Github](https://img.shields.io/badge/-Github-blueviolet?style=plastic&logo=Github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=plastic&logo=visual-studio-code)
+![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=plastic&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-blueviolet?style=plastic&logo=Numpy)
+![Jupyter](https://img.shields.io/badge/-Jupyter-blueviolet?style=plastic&logo=Jupyter)
+![AWS](https://img.shields.io/badge/-AWS-blueviolet?style=plastic&logo=Amazon-AWS)
+![Power BI](https://img.shields.io/badge/-Power%20BI-blueviolet?style=plastic&logo=Power-BI)
+![Qlik_Sense](https://img.shields.io/badge/QlikSense-blueviolet?style=plastic&logo=Qlik-Sense)
+<img align="right" alt="Ma-pic" height="150" style="float:right:50px;" src="https://cdn.discordapp.com/attachments/940047167635222571/940047206885494825/IMG_3163.gif">
  
 ##
+</div>
+
 
 #### 📊  Statistics:
 
@@ -37,13 +42,12 @@
 
 ##
 
-<div style="display: inline_block">
+<div align="center">
   
 #### ✨ Other Contacts:
 
-<a align="center" href="https://www.linkedin.com/in/maitevalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a align="center" href="https://www.instagram.com/maitevitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<img align="middle" alt="Ma-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/940047167635222571/940047206885494825/IMG_3163.gif">
+<a align="middle" href="https://www.linkedin.com/in/maitevalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a align="middle" href="https://www.instagram.com/maitevitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
 
