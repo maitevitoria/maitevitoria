@@ -21,6 +21,8 @@
 
 #### Tools & languages:
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AD8CF7&width=435&lines=Always+learning+new+things;Passionate+about+DATA+SCIENCE;Python+Developer" alt="Typing SVG" /></a>
+
 <div align="right">
  
 ![Python](https://img.shields.io/badge/-Python-blueviolet?style=plastic&logo=Python)
