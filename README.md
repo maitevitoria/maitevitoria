@@ -1,14 +1,15 @@
 <div  align="center">
   
-### Hii! My name is Maite <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hii! My name is Maite <img src="https://media.giphy.com/media/pOTEhtq8Jv7voNl7mb/giphy.gif" width="100">
 
 ##
 <br>
 
 </div> 
 
+- Pet Lover
 - Bachelor degree in Information Systems @ FIAP – Faculdade de Informática e Administração Paulista. 
-- I’m currently working with **SQL**, **Python**, **Qlik Sense**, **AWS - S3** and **GIT**;
+- I’m currently working with **SQL**, **Python**, **Qlik Sense**, **AWS - S3** and **GIT** 💜
 - I've already worked with HTML, CSS, Angular, Power BI, Microstrategy and OBIEE
 - I study English (C1) and Italian (B1)
 - Really love to talk about technology, career and tv series 
