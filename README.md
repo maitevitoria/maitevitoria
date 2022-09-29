@@ -1,15 +1,17 @@
 <div  align="center">
   
-### Hii! My name is Maite 💖 👩‍💻
+### Hii! My name is Maite <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ##
 <br>
 
 </div> 
-  
-<img align="left" alt="Ma-pic" height="110" style="float:right:50px;" src="https://cdn.discordapp.com/attachments/940047167635222571/940047206885494825/IMG_3163.gif">
 
-**Developer** working on creation and maintenance of databases - structuring and pre-processing processes, making reports, dashboards and applications to assist the industrial and retail business areas.
+- Bachelor degree in Information Systems @ FIAP – Faculdade de Informática e Administração Paulista. 
+- I’m currently working with **SQL**, **Python**, **Qlik Sense**, **AWS - S3** and **GIT**;
+- I've already worked with HTML, CSS, Angular, Power BI, Microstrategy and OBIEE
+- I study English (C1) and Italian (B1)
+- Really love to talk about technology, career and tv series 
 
 </div>
 
