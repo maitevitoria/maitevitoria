@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-- 27y, System Analyst, São Paulo - Brazil ✨
+- 27y, System Analyst, São Paulo - Brazil 
 - Bachelor degree in Information Systems @ FIAP – Faculdade de Informática e Administração Paulista 
 - I’m currently working with **SQL**, **Python**, **Qlik Sense**, **AWS - S3** and **GIT** 💜
 - I've already worked with HTML, CSS, Angular, Power BI, Microstrategy, SISS Package and OBIEE
