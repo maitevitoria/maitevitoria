@@ -1,6 +1,7 @@
 <div  align="center">
   
-### Hii! My name is Maite 
+### Hii! My name is Maite<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+<Br>
 
 ##
 <br>
