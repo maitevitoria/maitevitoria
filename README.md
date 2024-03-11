@@ -1,6 +1,6 @@
 <div  align="center">
   
-### Hii! My name is Maite <img src="https://media.giphy.com/media/pOTEhtq8Jv7voNl7mb/giphy.gif" width="100">
+### Hii! My name is Maite 
 
 ##
 <br>
@@ -20,10 +20,6 @@
 
 ##
 <br>
-
-#### Tools & languages:
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AD8CF7&width=435&lines=Always+learning+new+things;Passionate+about+DATA+SCIENCE;Python+Developer" alt="Typing SVG" /></a>
 
 <div align="right">
  
