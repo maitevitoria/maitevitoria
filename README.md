@@ -12,10 +12,8 @@
 
 - 27y, System Analyst, São Paulo - Brazil 
 - Bachelor degree in Information Systems @ FIAP – Faculdade de Informática e Administração Paulista 
-- I’m currently working with **SQL**, **Python**, **Qlik Sense**, **AWS - S3** and **GIT** 💜
-- I've already worked with HTML, CSS, Angular, Power BI, Microstrategy, SISS Package and OBIEE
-- Interesting in Data Analysis, Data Visualization, Data Storytelling, BI and ETL
-- Really love to talk about technology, career and tv series 🍿🧚
+- Interested in Data Analysis, Data Visualization, Data Storytelling, BI and ETL
+- Really love to talk about technology, career and tv series
 
 </div>
 
