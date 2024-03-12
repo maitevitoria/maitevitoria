@@ -12,7 +12,7 @@
 
 - 27y, System Analyst, São Paulo - Brazil 
 - Bachelor degree in Information Systems @ FIAP – Faculdade de Informática e Administração Paulista 
-- Interested in Data Analysis, Data Visualization, Data Storytelling, BI and ETL
+- Interested in **Data Analysis, Data Visualization, Data Storytelling, BI and ETL**
 - Really love to talk about technology, career and tv series
 
 </div>
